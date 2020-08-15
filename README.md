@@ -2,8 +2,6 @@
 
 [![Twitter: SriramK1989](https://img.shields.io/twitter/follow/SriramK1989?style=social)](https://twitter.com/SriramK1989)
 
-{% include  fb-like.html %}
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Building my website for photography and for office website**
